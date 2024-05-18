@@ -1,11 +1,3 @@
-'''
-Author: Yidan Liu 1334252492@qq.com
-Date: 2024-02-06 12:20:53
-LastEditors: Yidan Liu 1334252492@qq.com
-LastEditTime: 2024-05-02 10:07:55
-FilePath: /add_noise/utils/parser.py
-Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
-'''
 import argparse
 
 
