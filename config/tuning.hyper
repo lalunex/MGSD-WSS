@@ -1,7 +1,0 @@
-weight_decay choice [0,1e-3,1e-4]
-our_ae_drop_out choice [0,.1,.2,.3,.4,.5,.6]
-reweight_loss_gamma choice [1,2,3,4,5,6,7,8,9,10]
-reweight_loss_zeta choice [1,2,3,4,5,6,7,8,9,10]
-reweight_loss_eta choice [1,2,3,4,5,6,7,8,9,10]
-hard_noise_num choice [1,2,3,4,5]
-
