@@ -1,12 +1,4 @@
 #！/bin/bash
-###
- # @Author: Yidan Liu 1334252492@qq.com
- # @Date: 2024-02-06 12:20:55
- # @LastEditors: Yidan Liu 1334252492@qq.com
- # @LastEditTime: 2024-04-28 15:19:51
- # @FilePath: /add_noise/tuning.sh
- # @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
-### 
 
 # for dataset in 'ml-100k' 'ml-1m' 'amazon-beauty' 'amazon-sports-outdoors' 'yelp'; do
 #  CUDA_VISIBLE_DEVICES=0 python run_ehdwcl.py --dataset ${dataset}
