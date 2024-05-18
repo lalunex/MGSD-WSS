@@ -1,24 +1,4 @@
 # -*- coding: utf-8 -*-
-# @Time   : 2020/8/25 19:56
-# @Author : Yujie Lu
-# @Email  : yujielu1998@gmail.com
-
-# UPDATE
-# @Time   : 2020/9/15, 2020/10/2
-# @Author : Yupeng Hou, Yujie Lu
-# @Email  : houyupeng@ruc.edu.cn, yujielu1998@gmail.com
-
-r"""
-NARM
-################################################
-
-Reference:
-    Jing Li et al. "Neural Attentive Session-based Recommendation." in CIKM 2017.
-
-Reference code:
-    https://github.com/Wang-Shuo/Neural-Attentive-Session-Based-Recommendation-PyTorch
-
-"""
 
 import torch
 from torch import nn

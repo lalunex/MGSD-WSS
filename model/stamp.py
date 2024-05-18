@@ -1,21 +1,4 @@
 # -*- coding: utf-8 -*-
-# @Time   : 2020/9/8 19:24
-# @Author : Yujie Lu
-# @Email  : yujielu1998@gmail.com
-
-# UPDATE
-# @Time   : 2020/10/2
-# @Author : Yujie Lu
-# @Email  : yujielu1998@gmail.com
-
-r"""
-STAMP
-################################################
-
-Reference:
-    Qiao Liu et al. "STAMP: Short-Term Attention/Memory Priority Model for Session-based Recommendation." in KDD 2018.
-
-"""
 
 import torch
 from torch import nn

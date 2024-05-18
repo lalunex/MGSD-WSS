@@ -1,19 +1,4 @@
 # -*- coding: utf-8 -*-
-# @Time    : 2020/9/18 11:33
-# @Author  : Hui Wang
-# @Email   : hui.wang@ruc.edu.cn
-
-"""
-SASRec
-################################################
-
-Reference:
-    Wang-Cheng Kang et al. "Self-Attentive Sequential Recommendation." in ICDM 2018.
-
-Reference:
-    https://github.com/kang205/SASRec
-
-"""
 
 import torch
 from torch import nn

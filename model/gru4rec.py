@@ -1,21 +1,4 @@
 # -*- coding: utf-8 -*-
-# @Time   : 2020/8/17 19:38
-# @Author : Yujie Lu
-# @Email  : yujielu1998@gmail.com
-
-# UPDATE:
-# @Time   : 2020/8/19, 2020/10/2
-# @Author : Yupeng Hou, Yujie Lu
-# @Email  : houyupeng@ruc.edu.cn, yujielu1998@gmail.com
-
-r"""
-GRU4Rec
-################################################
-
-Reference:
-    Yong Kiam Tan et al. "Improved Recurrent Neural Networks for Session-based Recommendations." in DLRS 2016.
-
-"""
 
 import torch
 from torch import nn

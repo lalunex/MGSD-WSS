@@ -1,24 +1,4 @@
 # -*- coding: utf-8 -*-
-# @Time   : 2020/9/21
-# @Author : Jingsen Zhang
-# @Email  : zhangjingsen@ruc.edu.cn
-
-# UPDATE
-# @Time   : 2020/10/2
-# @Author : Jingsen Zhang
-# @Email  : zhangjingsen@ruc.edu.cn
-
-r"""
-Caser
-################################################
-
-Reference:
-    Jiaxi Tang et al., "Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding" in WSDM 2018.
-
-Reference code:
-    https://github.com/graytowne/caser_pytorch
-
-"""
 
 import torch
 from torch import nn

@@ -1,21 +1,4 @@
 # -*- coding: utf-8 -*-
-# @Time    : 2020/9/18 12:08
-# @Author  : Hui Wang
-# @Email   : hui.wang@ruc.edu.cn
-
-r"""
-BERT4Rec
-################################################
-
-Reference:
-    Fei Sun et al. "BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer."
-    In CIKM 2019.
-
-Reference code:
-    The authors' tensorflow implementation https://github.com/FeiSun/BERT4Rec
-
-"""
-
 import random
 
 import torch
